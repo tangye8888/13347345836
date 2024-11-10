@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "public": true,
+  "github": {
+    "silent": true
+  },
+  "framework": null,
+  "buildCommand": null,
+  "rewrites": [
+    { "source": "/", "destination": "/welcome.html" }
+  ]
+} 
